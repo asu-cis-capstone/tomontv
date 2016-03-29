@@ -11,6 +11,10 @@ Key Contributors: Zachary Feldman, Eric Richmond, Payvand Imani
 **Solution**:
    A website that pulls from multiple sources to show you when a Tom Hanks movie is showing and what channel it is on. 
    
+   
+![picture1](IMG_6298.jpeg)
+![picture2](IMG_7342.JPG)
+   
 **Key Metrics**: 
 
 1. User return percentage
