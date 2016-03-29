@@ -12,6 +12,7 @@ Key Contributors: Zachary Feldman, Eric Richmond, Payvand Imani
    A website that pulls from multiple sources to show you when a Tom Hanks movie is showing and what channel it is on. 
    
 **Key Metrics**: 
+
 1. User return percentage
 2. How often one user uses the website
 3. Initial user sign up. 
